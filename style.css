@@ -1,0 +1,33 @@
+html{
+    margin: 0;
+}
+
+span{
+    display: block;
+}
+
+.button{
+    width: 100px;
+    height: 100px;
+    border: 2.5px solid black;
+    display: inline-flex;
+}
+
+#black{
+    background-color: black;
+}
+#orange{
+    background-color: orange;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
+#brown{
+    background-color: brown;
+}
